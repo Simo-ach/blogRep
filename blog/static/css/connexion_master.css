@@ -1,0 +1,30 @@
+body {
+ color: white;
+ background-color: #595858;
+ border-top: 60px solid #595858;
+ border-left: 100px solid #595858;
+ border-right: 100px solid #595858;
+ border-bottom: 60px solid #595858;
+ font-family: 'Lobster', cursive;
+ margin: auto;
+}
+.jumbotron {
+  background-color:#292929;
+  padding: 70px;
+  height: 500px;
+  /* padding: 45px;
+  width: 450px; */
+  /* margin-top: 40px;
+  margin-bottom: 40px; */
+}
+
+#block1{
+  background-image: url("vignette-genind.jpg");
+  width: 697px;
+}
+button{
+  width:180px;
+  height:40px;
+  font-size: 1.8em;
+  background-color: #4267B2
+}
